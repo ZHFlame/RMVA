@@ -1,0 +1,3 @@
+/home/lychee/rmva/src/challenge/src/vision/build/CMakeFiles/vision.dir
+/home/lychee/rmva/src/challenge/src/vision/build/CMakeFiles/edit_cache.dir
+/home/lychee/rmva/src/challenge/src/vision/build/CMakeFiles/rebuild_cache.dir
