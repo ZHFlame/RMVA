@@ -153,6 +153,9 @@ std::pair<std::vector<cv::Point2f>, int> Armor_Detector(cv::Mat img_input)
     
 
     // 6. 模板匹配识别装甲数字
+    Mat imgWarpGray, imgWarpBinary;
+    cvtColor(imgWarp, imgWarpGray, COLOR_BGR2GRAY);
+    threshold(imgWarpGray, imgWarpBinary, 128, 255, THRESH_BINARY); 
     double max_score = -1.0;
     int best_match_digit = -1;
     for (const auto &kv : templates) {
