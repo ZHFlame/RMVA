@@ -4,13 +4,13 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
     """launch内容描述函数，由ros2 launch 扫描调用"""
-    # 1. 声明需要启动的 vision_node
-    vision_node = Node(
+    # 1. 声明 shooter_node
+    shooter_node = Node(
         package="challenge",
-        executable="vision_node"
+        executable="shooter_node"
     )
-    # 2. 将节点写入 LaunchDescription
+    # 2. 封装至 LaunchDescription
     launch_description = LaunchDescription(
-        [vision_node])
-    # 3. 返回 LaunchDescription 交由 ROS2 执行
+        [shooter_node])
+    # 3. 返回对象以便 ros2 launch 解析
     return launch_description
