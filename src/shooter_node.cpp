@@ -135,7 +135,7 @@ void shooter_node::oula_angle(const std::shared_ptr<referee_pkg::srv::HitArmor::
     // 使用预测后的坐标 (x0, y0, z0) 进行解算
     // 注意：calculate 函数需要根据你的坐标系定义进行调整
     // 这里假设 x0, y0, z0 已经是预测好的击打点
-    std::vector<double> oula_angles = calculate(x0, y0, request->g); // 注意这里传参是否匹配
+    std::vector<double> oula_angles = calculate(x0, y0, z0, request->g); // 注意这里传参是否匹配
     
     response->yaw = oula_angles[0];
     response->pitch = oula_angles[1];

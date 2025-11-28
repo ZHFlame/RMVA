@@ -181,7 +181,7 @@ cv::Point3f transform_2d_3d(const std::vector<cv::Point2f>& points)
         cv::Mat I = cv::Mat::eye(5, 5, CV_32F);
         covariance_ = (I - K * measurementMatrix_) * covariance_;
     }
-    //5. 计算雅比达矩阵
+    //5. 计算矩阵
     cv::Mat CorrectCircularMotionEKF::computeJacobian() {
         float x = state_.at<float>(0);
         float y = state_.at<float>(1);
