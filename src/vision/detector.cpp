@@ -10,73 +10,70 @@ using namespace cv;
 vector<Subject> detector(Mat &imgsource) {
 
 
+    // ============================================================
+    // 0. 复制输入图像并准备工作容器
+    // ============================================================
     Mat src = imgsource.clone();
     vector<Subject> subjects;
     vector<vector<Point>> contours;
     vector<Vec4i> hierarchy;
 
     // ============================================================
-    // 多通道边缘融合预处理
+    // 1. 多通道边缘融合预处理
     // ============================================================
-    // 0. 高斯滤波
+    // 1.1 先整体高斯滤波，压制全局噪声
     GaussianBlur(src, src, Size(5, 5), 0);
-    // 1. 分离通道，分别进行边缘检测
-    // 这样可以捕捉到颜色不同但亮度相近的物体边界
+    // 1.2 拆分 B/G/R 通道，逐通道检测边缘以覆盖不同颜色对比
     vector<Mat> channels;
     split(src, channels); // B, G, R
 
     Mat edges_combined = Mat::zeros(src.size(), CV_8UC1);
 
+    // 1.3 逐通道：中值滤波 + Canny，将边缘累加
     for (int i = 0; i < 3; i++) {
         Mat ch_blur, ch_edges;
-        // 对单通道去噪
+        // 1.3.1 中值滤波消除椒盐噪声
         medianBlur(channels[i], ch_blur, 5);
-        // Canny 检测 (阈值较低以捕捉微弱边界)
+        // 1.3.2 低阈值 Canny，保留较弱的结构
         Canny(ch_blur, ch_edges, 30, 100);
-        // 累加边缘：只要任意通道有边缘，就认为是边缘
+        // 1.3.3 多通道 OR 融合
         bitwise_or(edges_combined, ch_edges, edges_combined);
     }
 
-    // 2. 补充灰度边缘 (防止纯亮度变化被漏掉)
+    // 1.4 灰度边缘补充，避免纯亮度目标被遗漏
     Mat gray, gray_edges;
     cvtColor(src, gray, COLOR_BGR2GRAY);
     medianBlur(gray, gray, 5);
     Canny(gray, gray_edges, 40, 120);
     bitwise_or(edges_combined, gray_edges, edges_combined);
 
-    // 3. 形态学操作：连接断裂并填充
-    // 使用椭圆核进行闭运算，连接边缘
-    Mat kernel = getStructuringElement(MORPH_ELLIPSE, Size(3, 3)); // 核稍微改小一点，提高精度
+    // 1.5 形态学闭运算连接断裂边缘，再膨胀确保闭合
+    Mat kernel = getStructuringElement(MORPH_ELLIPSE, Size(3, 3));
     Mat edges_closed;
     morphologyEx(edges_combined, edges_closed, MORPH_CLOSE, kernel, Point(-1,-1), 2);
 
-    // 4. 生成实心掩码 (Premask)
     Mat Premask;
-    // 稍微膨胀以确保轮廓闭合
     dilate(edges_closed, Premask, kernel, Point(-1,-1), 1);
     
-    // 查找外轮廓并填充，得到实心物体
+    // 1.6 基于外轮廓填充实心掩码，滤除面积过小的噪点
     vector<vector<Point>> tmpCnts;
     findContours(Premask, tmpCnts, RETR_EXTERNAL, CHAIN_APPROX_SIMPLE);
     
     Premask = Mat::zeros(src.size(), CV_8UC1);
     for (size_t i = 0; i < tmpCnts.size(); ++i) {
         double a = contourArea(tmpCnts[i]);
-        if (a < 100) continue; // 过滤噪点
+        if (a < 100) continue;
         drawContours(Premask, tmpCnts, static_cast<int>(i), Scalar(255), FILLED);
     }
 
-    // 最后一次平滑
+    // 1.7 最后一次平滑，获得稳定的前景掩码
     morphologyEx(Premask, Premask, MORPH_CLOSE, getStructuringElement(MORPH_ELLIPSE, Size(5,5)));
 
     Mat proc = Premask;
-    // imshow("Multi-Channel Preprocessed", proc); // Debug用
 
     // ============================================================
-    // 【修改结束】
+    // 2. 提取轮廓作为候选目标
     // ============================================================
-
-    // 之后用 proc 调用 findContours 获取稳定的轮廓
     findContours(proc, contours, hierarchy, RETR_EXTERNAL, CHAIN_APPROX_SIMPLE);
 
 
@@ -89,7 +86,7 @@ vector<Subject> detector(Mat &imgsource) {
         cout<<"轮廓数："<<contours.size()<<endl;
 
         /*** 以下为圆形处理 ***/
-        // 计算最小外接圆
+        // 2.1 对高圆度轮廓执行球体分支
         Point2f center;
         float radius = 0;
         minEnclosingCircle(contours[i], center, radius);
@@ -119,24 +116,7 @@ vector<Subject> detector(Mat &imgsource) {
         /*** 以下为Armor和矩形处理 ***/
         else {
 
-            // 3. 移除此处原有的 static 模板加载代码
-            /*
-            static std::map<int, Mat> templates;
-            if (templates.empty()) {
-                for (int idx = 1; idx <= 5; ++idx) {
-                    ...
-                }
-            }
-            */
-            
-            /* //DEBUG:显示已成功加载的模板（非阻塞）
-            for (const auto &kv : templates) {
-                if (!kv.second.empty()) {
-                    std::string win = "template" + std::to_string(kv.first);
-                    imshow(win, kv.second);
-                }
-            }*/
-
+            // 2.2 对其余轮廓执行装甲板/矩形判定
             // 计算最小外接矩形
             Rect Rectangle_prame;
             Rectangle_prame = boundingRect(contours[i]);
@@ -167,6 +147,7 @@ vector<Subject> detector(Mat &imgsource) {
                 Armor.points = armor_points.first;
                 subjects.push_back(Armor);
             }else if(area/(Rectangle_prame.width*Rectangle_prame.height) >0.95){
+                // 2.2.4 实心矩形 -> 视作 square 目标
                 rectangle(src, Rectangle_prame.tl(), Rectangle_prame.br(), Scalar(0, 0, 255), 2); // 红色矩
                 vector<Point2f> Points;
                 Points.push_back(Point2f(Rectangle_prame.x,Rectangle_prame.y+Rectangle_prame.height));
@@ -185,83 +166,12 @@ vector<Subject> detector(Mat &imgsource) {
             }else{
                 continue;
             }
-            /*if (area/(Rectangle_prame.width*Rectangle_prame.height) <0.9)// 对潜在重合的矩形进行灯条检测
-            {
-                // 生成矩阵切片
-                Mat roi = src(Rectangle_prame);
-                vector<Point2f> Armor_Points;
-                Armor_Points = Armor_Detector(roi);
-                if (Armor_Points.size() != 4){continue;}// 未检测到完整的灯条，跳过该轮廓
-                for (size_t j=0;j<4;j++) {
-                    // 调整点坐标到原图像坐标系
-                    Armor_Points[j].x += Rectangle_prame.x;
-                    Armor_Points[j].y += Rectangle_prame.y;
-                }
-                rectangle(src, Rectangle_prame.tl(), Rectangle_prame.br(), Scalar(0, 255, 0), 2); // 绿色矩形
-                Subject Armor;
-                Armor.name = "armor_red_" + to_string(best_match_digit);
-                Armor.id = subjects.size() + 1;
-                Armor.number = best_match_digit;
-                Armor.points = Armor_Points;
-                subjects.push_back(Armor);
-                continue;
-            }
-            if(best_match_digit != -1 && max_score > 0.45)// 匹配到数字，判定为armor
-            {
-                vector<Point2f> Armor_Points;
-                //Armor_Points = Armor_Detector(src);// old：传入整个图像，可能会出现bug
-                Armor_Points = Armor_Detector(roi);// 只传入部分，防止出现bug
-
-                // [修复]：检查点数是否为4，防止越界访问导致崩溃
-                if (Armor_Points.size() != 4) {
-                    // 如果未检测到完整的灯条（例如光照不好），但数字匹配成功
-                    // 则使用 ROI 矩形的四个角点作为备选，避免 crash
-                    Armor_Points.clear();
-                    // 构造顺序左下、右下、右上、左上
-                    Armor_Points.push_back(Point2f(0, roi.rows));       // 左下
-                    Armor_Points.push_back(Point2f(roi.cols, roi.rows));// 右下
-                    Armor_Points.push_back(Point2f(roi.cols, 0));       // 右上
-                    Armor_Points.push_back(Point2f(0, 0));              // 左上
-                }
-
-                for (size_t j=0;j<4;j++){
-                // 调整点坐标到原图像坐标系
-                    Armor_Points[j].x += Rectangle_prame.x;
-                    Armor_Points[j].y += Rectangle_prame.y;
-                }
-                rectangle(src, Rectangle_prame.tl(), Rectangle_prame.br(), Scalar(0, 0, 255), 2); // 红色矩形
-                Subject Armor;
-                Armor.name = "armor_red_" + to_string(best_match_digit);
-                Armor.id = subjects.size() + 1;
-                Armor.number = best_match_digit;
-                Armor.points = Armor_Points;
-                subjects.push_back(Armor);
-                
-            }else// 未匹配到数字，判断为矩形
-            {
-                                rectangle(src, Rectangle_prame.tl(), Rectangle_prame.br(), Scalar(0, 0, 255), 2); // 红色矩
-                vector<Point2f> Points;
-                Points.push_back(Point2f(Rectangle_prame.x,Rectangle_prame.y+Rectangle_prame.height));
-                Points.push_back(Point2f(Rectangle_prame.x+Rectangle_prame.width , Rectangle_prame.y+Rectangle_prame.height));
-                Points.push_back(Point2f(Rectangle_prame.x+Rectangle_prame.width,Rectangle_prame.y));
-                Points.push_back(Point2f(Rectangle_prame.x,Rectangle_prame.y));
-                Subject Square;
-                Square.name = "square";
-                Square.id = subjects.size() + 1;
-                Square.points = Points;
-                Mat mask = Mat::zeros(src.size(), CV_8UC1);
-                drawContours(mask, contours, static_cast<int>(i), Scalar(255), FILLED);
-                Scalar mean_color = mean(src, mask);
-                Square.color_bgr = mean_color;
-                subjects.push_back(Square);
-                
-            }*/
-            
-
             
         }
     }
-    // 根据BGR值判断颜色类型的优化版本
+    // ============================================================
+    // 4. 根据平均颜色推断颜色类型
+    // ============================================================
 for (auto &subject : subjects) {
     if (subject.name == "armor") continue;
 
@@ -354,5 +264,8 @@ for (auto &subject : subjects) {
     //imshow("blur",imgBlur) ;
     //imshow("Dilate", imgDil);
     //imshow("RAW",src);
+    // ============================================================
+    // 5. 输出所有检测目标
+    // ============================================================
     return subjects;
 }

@@ -23,17 +23,17 @@ public:
     {
         RCLCPP_INFO(this->get_logger(), "Node created");
         
-        // 0. 服务端
+        // 1. 创建击打服务接口
         armor_hit_service = this->create_service<referee_pkg::srv::HitArmor>(
             "/referee/hit_arror", std::bind(&shooter_node::oula_angle, this,
             std::placeholders::_1, std::placeholders::_2));
 
-        // 1. 订阅 image 话题
+        // 2. 订阅图像话题，供视觉测量
         Image_sub = this->create_subscription<sensor_msgs::msg::Image>(
             "/camera/image_raw", 10,
             std::bind(&shooter_node::img_process, this, std::placeholders::_1));
             
-        // 2. 定时器 (修复 bind 问题)
+        // 3. 创建定时器，分别用于 EKF 更新和圆心拟合
         // EKF 负责预测，频率可以高一点
         timer_1 = this->create_wall_timer(std::chrono::milliseconds(10),
             std::bind(&shooter_node::EKF_callback, this));
@@ -50,7 +50,7 @@ public:
                 RCLCPP_INFO(this->get_logger(), "Received race stage %d",msg->stage);
             });
             
-        // 初始化 EKF
+        // 5. 实例化 EKF，统一在 10ms 周期内更新
         ekf_ = std::make_shared<CorrectCircularMotionEKF>(0.01f); // dt = 10ms
     } 
 
@@ -150,7 +150,7 @@ void shooter_node::oula_angle(const std::shared_ptr<referee_pkg::srv::HitArmor::
 // ================================
 void shooter_node::img_process(sensor_msgs::msg::Image::SharedPtr msg)
 {
-    // 1. 图像转换
+    // 1. ROS 图像 -> OpenCV 格式
     cv_bridge::CvImagePtr cv_ptr;
     try {
         cv_ptr = cv_bridge::toCvCopy(msg, sensor_msgs::image_encodings::BGR8);
@@ -161,7 +161,7 @@ void shooter_node::img_process(sensor_msgs::msg::Image::SharedPtr msg)
     cv::Mat src = cv_ptr->image;
     if (src.empty()) return;
 
-    // 2. 检测装甲板
+    // 2. 运行通用 detector 获取目标集合
     std::vector<Subject> subjects = detector(src);
     
     // 【新增】打印检测结果
@@ -205,6 +205,7 @@ void shooter_node::img_process(sensor_msgs::msg::Image::SharedPtr msg)
 // ================================
 void shooter_node::EKF_callback()
 {
+    // 1. 定期打印，监控 EKF 状态
     static int call_count = 0;
     call_count++;
     
@@ -244,6 +245,7 @@ void shooter_node::EKF_callback()
 // ===============================
 void shooter_node::center_r_callback()
 {
+    // 1. 周期打印，确认拟合线程运行
     static int call_count = 0;
     call_count++;
     
@@ -255,7 +257,7 @@ void shooter_node::center_r_callback()
     int n = xz_points.size();
     if (n < 10) return;
 
-    // 【修复】正确的圆拟合公式
+    // 2. 构建最小二乘方程 A·x=b，并解出圆参数
     // x^2 + z^2 = 2*A*x + 2*B*z + C
     // 其中圆心 (xc, zc) = (A, B)，r^2 = A^2 + B^2 - C
     
@@ -286,7 +288,7 @@ void shooter_node::center_r_callback()
         radius = 0.0f;
     }
     
-    // 【新增】调试输出
+    // 3. 根据拟合结果更新圆心、半径并记录日志
     RCLCPP_INFO_THROTTLE(this->get_logger(), *this->get_clock(), 1000,
                          "Fitted Circle - Center: (%.3f, %.3f), Radius: %.3f, Omega: %.3f",
                          center.x, center.z, radius, omega);

@@ -27,6 +27,8 @@ public:
     vision_node(const std::string& name) : Node(name) {
         RCLCPP_INFO(this->get_logger(), "Initializing vision_node");
 
+        // 步骤 1：订阅图像流，作为前端输入
+        // 1. 订阅图像流，作为前端输入
         Image_sub = this->create_subscription<sensor_msgs::msg::Image>(
             "/camera/image_raw", 10,
             std::bind(&vision_node::callback, this, std::placeholders::_1));
@@ -67,12 +69,12 @@ int main(int argc, char **argv) {
 void vision_node::callback(sensor_msgs::msg::Image::SharedPtr msg)
 {try
 {
-    //定义消息
+    // 1. 构造输出消息并复制时间戳
     referee_pkg::msg::MultiObject msg_object;
     msg_object.header = msg->header;
-    //导入图片
-    cv_bridge::CvImagePtr cv_ptr;
 
+    // 2. 统一图像编码，确保 detector 输入为 BGR8
+    cv_bridge::CvImagePtr cv_ptr;
     if (msg->encoding == "rgb8" || msg->encoding == "R8G8B8") {
         cv::Mat src(msg->height, msg->width, CV_8UC3,
                       const_cast<unsigned char *>(msg->data.data()));
@@ -130,6 +132,7 @@ void vision_node::callback(sensor_msgs::msg::Image::SharedPtr msg)
         msg_object.num_objects = static_cast<int>(msg_object.objects.size());
     }
     Target_pub->publish(msg_object);
+    // 5. 发布检测结果并打印数量
     RCLCPP_INFO(this->get_logger(), "Published %d targets",
                 msg_object.num_objects);
 }
