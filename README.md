@@ -118,13 +118,13 @@ ros2 launch challenge shooter.launch.py
 
 ### 8.1 Dockerfile
 ```dockerfile
-FROM ros:galactic-ros-base
+FROM ros:humble-ros-base
 
 # 基础依赖
 RUN apt-get update && apt-get install -y \
     python3-colcon-common-extensions \
-    ros-galactic-cv-bridge \
-    ros-galactic-vision-msgs \
+    ros-humble-cv-bridge \
+    ros-humble-vision-msgs \
     libopencv-dev \
     libeigen3-dev \
     build-essential \
@@ -132,17 +132,17 @@ RUN apt-get update && apt-get install -y \
 
 # 裁判系统 SDK 及依赖
 RUN apt-get update && apt-get install -y \
-    ros-galactic-rmw-fastrtps-cpp \
-    ros-galactic-rmw-cyclonedds-cpp \
+    ros-humble-rmw-fastrtps-cpp \
+    ros-humble-rmw-cyclonedds-cpp \
     && rm -rf /var/lib/apt/lists/*
 
-WORKDIR /workspace/src
-COPY . /workspace/src/challenge
+WORKDIR /rmva/src
+COPY . /rmva/src/challenge
 
-WORKDIR /workspace
-RUN . /opt/ros/galactic/setup.sh && colcon build --packages-select challenge
+WORKDIR /rmva
+RUN . /opt/ros/humble/setup.sh && colcon build --packages-select challenge
 
-CMD ["bash", "-c", "source /opt/ros/galactic/setup.bash && source /workspace/install/setup.bash && bash"]
+CMD ["bash", "-c", "source /opt/ros/humble/setup.bash && source /rmva/install/setup.bash && bash"]
 ```
 
 ### 8.2 docker-compose.yml
@@ -154,7 +154,7 @@ services:
     container_name: team25_challenge
     network_mode: host
     volumes:
-      - ./results:/workspace/results
+      - ./results:/rmva/results
       - /dev:/dev
     environment:
       - DISPLAY=${DISPLAY}
@@ -169,8 +169,8 @@ docker exec -it team25_challenge bash
 ```
 ### 8.4 容器内运行程序
 ```bash
-bashsource /opt/ros2/humble/setup.bash
-source /workspace/install/setup.bash
+source /opt/ros2/humble/setup.bash
+source /rmva/install/setup.bash
 ros2 launch challenge vision.launch.py
 ```
 ## 9. 常见问题（FAQ）

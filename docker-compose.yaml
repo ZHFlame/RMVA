@@ -1,0 +1,13 @@
+version: '3'
+services:
+  challenge:
+    build: .
+    container_name: team25_challenge
+    network_mode: host
+    volumes:
+      - ./results:/rmva/results
+      - /dev:/dev
+    environment:
+      - DISPLAY=${DISPLAY}
+    stdin_open: true
+    tty: true
