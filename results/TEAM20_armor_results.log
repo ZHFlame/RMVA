@@ -1,0 +1,4008 @@
+ ErrorResults 
+  stamp : 2025-11-28T23:12:10Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [-0.00186367 , 2.02553 , 0.738981]
+       - orientation : [0.694229 , 0.719719 , -0.00577065 , 0.00415421]
+  RingCirclePositionError : 0
+  position_error : 0.240348
+  orientation_error : 1.6069
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:10Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [-0.00186367 , 2.02553 , 0.738981]
+       - orientation : [0.694229 , 0.719719 , -0.00577065 , 0.00415421]
+  RingCirclePositionError : 0
+  position_error : 0.240348
+  orientation_error : 1.6069
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:10Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [-0.00186367 , 2.02553 , 0.738981]
+       - orientation : [0.694229 , 0.719719 , -0.00577065 , 0.00415421]
+  RingCirclePositionError : 0
+  position_error : 0.240348
+  orientation_error : 1.6069
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:15Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [-0.00186367 , 2.02553 , 0.738981]
+       - orientation : [0.694229 , 0.719719 , -0.00577065 , 0.00415421]
+  RingCirclePositionError : 0
+  position_error : 0.240348
+  orientation_error : 1.6069
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [-0.00186367 , 2.02553 , 0.738981]
+       - orientation : [0.694229 , 0.719719 , -0.00577065 , 0.00415421]
+  RingCirclePositionError : 0
+  position_error : 1.00335
+  orientation_error : 1.6069
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:16Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:17Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:18Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:19Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:20Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:20Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:20Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:20Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:20Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:25Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:25Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:25Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:25Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:25Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:25Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:20Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:20Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:26Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:26Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:26Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:26Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:27Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:27Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:27Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:27Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:27Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:28Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:28Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:28Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:29Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:29Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:29Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:29Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:30Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:31Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:32Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:33Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:34Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:40Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:40Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:40Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:40Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:40Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:40Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:40Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:35Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:36Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00823904 , 2.95656 , 0.708998]
+       - orientation : [0.639474 , 0.754914 , -0.116256 , 0.0875349]
+  RingCirclePositionError : 0
+  position_error : 0.213623
+  orientation_error : 1.75396
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:37Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:38Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00834819 , 2.95981 , 0.709716]
+       - orientation : [0.641389 , 0.753476 , -0.115801 , 0.0865129]
+  RingCirclePositionError : 0
+  position_error : 0.213695
+  orientation_error : 1.74898
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T23:12:39Z
+  target_type : armor_red_1
+  model_name : armor_red_1
+  pose : 
+       - position : [0.00836274 , 2.95539 , 0.708705]
+       - orientation : [0.639534 , 0.754682 , -0.117052 , 0.0880352]
+  RingCirclePositionError : 0
+  position_error : 0.213584
+  orientation_error : 1.75381
+  found_in_gazebo : 1
+
