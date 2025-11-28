@@ -155,7 +155,7 @@ vector<Subject> detector(Mat &imgsource) {
                 Points.push_back(Point2f(Rectangle_prame.x+Rectangle_prame.width,Rectangle_prame.y));
                 Points.push_back(Point2f(Rectangle_prame.x,Rectangle_prame.y));
                 Subject Square;
-                Square.name = "square";
+                Square.name = "rectangle";
                 Square.id = subjects.size() + 1;
                 Square.points = Points;
                 Mat mask = Mat::zeros(src.size(), CV_8UC1);
