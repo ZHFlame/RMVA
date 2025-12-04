@@ -24,6 +24,7 @@
 //定义类
 class vision_node : public rclcpp::Node {
 public:
+    int stage=0;
     vision_node(const std::string& name) : Node(name) {
         RCLCPP_INFO(this->get_logger(), "Initializing vision_node");
 
@@ -38,6 +39,8 @@ public:
             [this](const referee_pkg::msg::RaceStage::SharedPtr msg) {
                 // RaceStage message fields may vary; avoid accessing unknown field names here
                 RCLCPP_INFO(this->get_logger(), "Received race stage %d",msg->stage);
+                stage=msg->stage;
+
             });
 
         Target_pub = this->create_publisher<referee_pkg::msg::MultiObject>(
@@ -98,7 +101,21 @@ void vision_node::callback(sensor_msgs::msg::Image::SharedPtr msg)
     ///调用detector
     std::vector<Subject> subjects;
     subjects.clear();
-    subjects = detector(src);
+    if(stage==1){
+        subjects = ring_detector(src);
+        cout<<"stage1"<<endl;
+    }
+    else if(stage==2){
+        subjects = arror_detector(src);
+        cout<<"arrownum:"<<subjects.size()<<endl;
+        cout<<"stage2"<<endl;
+    }
+    else if(stage==3){
+        subjects = detector(src);
+    }else if (stage==4) {
+            subjects = detector(src);
+    }
+
     cv::imshow("Detection Result", src);
     cv::waitKey(1);
     RCLCPP_INFO(this->get_logger(), "Detected %d subjects", static_cast<int>(subjects.size()));
@@ -106,11 +123,13 @@ void vision_node::callback(sensor_msgs::msg::Image::SharedPtr msg)
         RCLCPP_WARN(this->get_logger(), "No subjects detected");
     }
     //for循环
+    if(stage==2){
     for (auto &subject : subjects)
     {
         referee_pkg::msg::Object obj;
-        obj.target_type = subject.name;
+        obj.target_type = "arrow";
         std::cout<<"Subject Name: "<<subject.name<<std::endl;
+        cout<<"vision_node.cpp,subjectnum:"<<subjects.size()<<endl;
         // convert cv::Point2f -> geometry_msgs::msg::Point
         obj.corners.clear();
         for (const auto &p : subject.points) {
@@ -122,19 +141,78 @@ void vision_node::callback(sensor_msgs::msg::Image::SharedPtr msg)
         }
         msg_object.objects.push_back(obj);
         //msg_object.num_objects = subject.id;
-        for (auto point : subject.points)
+        /*for (auto point : subject.points)
         {
             RCLCPP_INFO(this->get_logger(),
                         "%s : %d, Point: (%.1f, %.1f)",
                         subject.name.c_str(),subject.id,
                         point.x, point.y);
-        }
+        }*/
         msg_object.num_objects = static_cast<int>(msg_object.objects.size());
     }
+}else if(stage==1){
+    for (auto &subject : subjects){
+        referee_pkg::msg::Object obj1;
+        referee_pkg::msg::Object obj2;
+        obj1.target_type = subject.name;
+        obj2.target_type = subject.name;
+        for (const auto &p : subject.points1) {
+            geometry_msgs::msg::Point gp;
+            gp.x = p.x;
+            gp.y = p.y;
+            gp.z = 0.0;
+            obj1.corners.push_back(gp);
+        }
+        for (const auto &p : subject.points2) {
+            geometry_msgs::msg::Point gp;
+            gp.x = p.x;
+            gp.y = p.y;
+            gp.z = 0.0;
+            obj2.corners.push_back(gp);
+        }
+        msg_object.objects.push_back(obj1);
+        msg_object.objects.push_back(obj2);
+        msg_object.num_objects = 2;
+    }
+}else if( stage==3 ){
+        for (auto &subject : subjects){
+    referee_pkg::msg::Object obj;
+        obj.target_type = subject.name;
+        // convert cv::Point2f -> geometry_msgs::msg::Point
+        obj.corners.clear();
+        for (const auto &p : subject.points) {
+            geometry_msgs::msg::Point gp;
+            gp.x = p.x;
+            gp.y = p.y;
+            gp.z = 0.0;
+            obj.corners.push_back(gp);
+        }
+        msg_object.objects.push_back(obj);
+        msg_object.num_objects = static_cast<int>(msg_object.objects.size());
+    }
+}else if( stage==4 ){
+        for (auto &subject : subjects){
+    referee_pkg::msg::Object obj;
+        obj.target_type = subject.name;
+        // convert cv::Point2f -> geometry_msgs::msg::Point
+        obj.corners.clear();
+        for (const auto &p : subject.points) {
+            geometry_msgs::msg::Point gp;
+            gp.x = p.x;
+            gp.y = p.y;
+            gp.z = 0.0;
+            obj.corners.push_back(gp);
+        }
+        msg_object.objects.push_back(obj);
+        msg_object.num_objects = static_cast<int>(msg_object.objects.size());
+    }
+}
+
     Target_pub->publish(msg_object);
     // 5. 发布检测结果并打印数量
     RCLCPP_INFO(this->get_logger(), "Published %d targets",
                 msg_object.num_objects);
+
 }
     catch (const cv_bridge::Exception& e) {
         RCLCPP_ERROR(this->get_logger(), "cv_bridge exception: %s", e.what());
